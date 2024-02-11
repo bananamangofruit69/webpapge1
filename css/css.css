@@ -14,9 +14,9 @@ p {
 
 div {
     background-color: blue;
-    border: 2px;
-    border-radius: 2px;
-    padding: 20px;
+    border: 2pt;
+    border-radius: 2pt;
+    padding: 20pt;
 }
 
 .pdiv {
@@ -25,7 +25,7 @@ div {
 
 img {
     border-color: red;
-    border: 10px;
+    border: 10pt;
     height: 50%;
     width: 50%;
 }
