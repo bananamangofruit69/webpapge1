@@ -24,6 +24,7 @@ div {
 }
 
 img {
+    border-style: solid;
     border-color: red;
     border: 10pt;
     height: 50%;
