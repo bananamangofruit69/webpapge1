@@ -7,6 +7,11 @@ h1 {
     color: rgb(68, 185, 0);
 }
 
+h2 {
+    font-family: Verdana;
+    colour: white;
+}
+
 p {
     font-family: verdana;
     font-size: 12pt;
