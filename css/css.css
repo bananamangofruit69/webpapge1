@@ -5,27 +5,27 @@ body {
 h1 {
     font-family: verdana;
     color: rgb(68, 185, 0);
+    margin: 10px;
 }
 
 h2 {
     font-family: verdana;
     color: white;
+    margin: 10px;
 }
 
 p {
     font-family: verdana;
     font-size: 12pt;
+    margin: 10px;
 }
 
-div {
+table, th, tr, td {
     background-color: blue;
-    border: 2pt;
-    border-radius: 2pt;
-    padding: 20pt;
-}
-
-.pdiv {
-    font-family: verdana;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 10px;
     color: white;
 }
 
