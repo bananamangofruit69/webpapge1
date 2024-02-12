@@ -8,7 +8,7 @@ h1 {
 }
 
 h2 {
-    font-family: Verdana;
+    font-family: verdana;
     color: white;
 }
 
@@ -25,6 +25,7 @@ div {
 }
 
 .pdiv {
+    font-family: verdana;
     color: white;
 }
 
