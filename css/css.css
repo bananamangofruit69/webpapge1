@@ -24,19 +24,20 @@ table, th, tr, td {
     background-color: blue;
     border: 1px solid white;
     border-radius: 3px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding: 5px;
     margin: 10px;
     color: white;
 }
 
 .tempnavbar {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 1px;
+    padding-bottom: 1px;
     background-color: black;
     padding: 5px;
     margin: 10px;
-    color: white;
+    color: white
 }
 
 img {
