@@ -29,6 +29,13 @@ table, th, tr, td {
     color: white;
 }
 
+.tempnavbar {
+    background-color: black;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+}
+
 img {
     border-style: solid;
     border-color: red;
